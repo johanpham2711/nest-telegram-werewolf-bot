@@ -17,4 +17,11 @@ export const TELEGRAM_BOT_TOKEN =
 
 // Mongo database
 export const MONGODB_URI =
-  process.env.MONGODB_URI || 'mongodb://localhost/telegram-lunch-bot';
+  process.env.MONGODB_URI || 'mongodb://localhost/telegram-werewolves-bot';
+
+// Cloudinary
+export const CLOUDINARY_NAME = process.env.CLOUDINARY_NAME || 'CLOUDINARY_NAME';
+export const CLOUDINARY_API_KEY =
+  process.env.CLOUDINARY_API_KEY || 'CLOUDINARY_API_KEY';
+export const CLOUDINARY_API_SECRET =
+  process.env.CLOUDINARY_API_SECRET || 'CLOUDINARY_API_SECRET';
