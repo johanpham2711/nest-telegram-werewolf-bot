@@ -18,15 +18,15 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-# Telegram werewolves board game bot
+# Telegram werewolf board game bot
 
 ###### by [Johan Pham](https://github.com/johanpham2711)
 
 ## 1. Install
 
 ```
-git clone https://github.com/johanpham2711/nest-telegram-werewolves-bot.git
-cd nest-telegram-werewolves-bot
+git clone https://github.com/johanpham2711/nest-telegram-werewolf-bot.git
+cd nest-telegram-werewolf-bot
 yarn
 ```
 

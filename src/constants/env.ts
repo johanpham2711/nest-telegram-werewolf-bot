@@ -17,7 +17,7 @@ export const TELEGRAM_BOT_TOKEN =
 
 // Mongo database
 export const MONGODB_URI =
-  process.env.MONGODB_URI || 'mongodb://localhost/telegram-werewolves-bot';
+  process.env.MONGODB_URI || 'mongodb://localhost/telegram-werewolf-bot';
 
 // Cloudinary
 export const CLOUDINARY_NAME = process.env.CLOUDINARY_NAME || 'CLOUDINARY_NAME';

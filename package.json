@@ -1,7 +1,7 @@
 {
-  "name": "nest-telegram-werewolves-bot",
+  "name": "nest-telegram-werewolf-bot",
   "version": "0.0.1",
-  "description": "A telegram bot to help the team play werewolves board game together.",
+  "description": "A telegram bot to help the team play werewolf board game together.",
   "author": "Johan Pham",
   "private": true,
   "license": "UNLICENSED",
